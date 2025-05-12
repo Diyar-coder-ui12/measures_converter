@@ -1,16 +1,85 @@
 # measures_converter
 
-A new Flutter project.
+Here's a comprehensive **README.md** for your `Measures_Converter` Flutter project, incorporating your assignment details, personal introduction, and technical information:
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# 📏 Measures Converter (Flutter App)
 
-A few resources to get you started if this is your first Flutter project:
+A simple yet powerful unit conversion app built with Flutter, supporting length, weight, volume, and temperature conversions between metric and imperial units.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![1747028735571](image/README/1747028735571.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Convert between **10+ units**:
+  - **Length**: meters, feet, kilometers, miles
+  - **Weight**: kilograms, pounds
+  - **Volume**: liters, gallons
+  - **Temperature**: Celsius, Fahrenheit
+- Clean Material Design 3 UI
+- Real-time calculation
+- Input validation
+
+---
+
+## 🛠️ Technical Stack
+
+- **Framework**: Flutter 3.x
+- **Language**: Dart
+- **Dependencies**:
+  ```yaml
+  flutter:
+    sdk: flutter
+  ```
+- **Tools Used**:
+  - Android Studio / VS Code
+  - GitHub Copilot (AI pair programming)
+  - Flutter SDK
+
+---
+
+## 🚀 How to Run
+
+1. **Prerequisites**:
+
+   - Flutter SDK ([Install guide](https://docs.flutter.dev/get-started/install))
+   - Android/iOS emulator or physical device
+2. **Steps**:
+
+   ```sh
+   git clone https://github.com/Diyar-coder-ui12/measures_converter.git
+   cd measures_converter
+   flutter pub get
+   flutter run
+   ```
+
+---
+
+## 📚 Assignment Details
+
+**Course**: Software Engineering**Task**: Build a Flutter conversion app with:
+
+- Dropdown unit selectors
+- Real-time calculation
+- Clean UI (per Material Design)
+
+**Deliverables**:
+
+- Dart source code (`main.dart`)
+- GitHub repo link : [https://github.com/Diyar-coder-ui12/measures_converter ](https://github.com/Diyar-coder-ui12/measures_converter "github repo")
+- Screenshot of output
+
+---
+
+## 🔗 Resources Used
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Dart Language Tour](https://dart.dev/guides/language/language-tour)
+- [GitHub Copilot](https://github.com/features/copilot)
+
+---
+
+### Screenshots:
+
+![1747028962310](image/README/1747028962310.png) ![1747029010011](image/README/1747029010011.png)  ![1747029035685](image/README/1747029035685.png) ![1747029045474](image/README/1747029045474.png)![1747029054035](image/README/1747029054035.png)
